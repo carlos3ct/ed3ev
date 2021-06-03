@@ -17,6 +17,7 @@ public class EDUT06 {
     public static void main(String[] args) {
         System.out.println("Hola, mundo");
         System.out.println("Ya estamos muy cansados");
+        System.out.println("y nos queda un último esfuerzo");
     }
     
 }
